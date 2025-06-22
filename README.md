@@ -59,7 +59,9 @@ This bundles React in production mode and optimizes the build for the best perfo
 ## Deployment
 
 You can deploy the build folder contents to any static hosting service. The current live demo is hosted on Netlify:
-[https://pathfinder-1.netlify.app/]
+
+ [https://pathfinder-1.netlify.app/]
+ 
 Note: If you deploy yourself, ensure the homepage field is removed or set correctly in package.json to avoid broken asset links on Netlify.
 
 ## How to Use
@@ -70,11 +72,11 @@ Note: If you deploy yourself, ensure the homepage field is removed or set correc
    - Click *Source*, then click a grid cell to set the start node.
    - Click *Destination*, then click a grid cell to set the finish node.
 
-3.⁠ ⁠*Create Walls: Select **Wall* and click cells to add or remove obstacles.
+3.⁠ ⁠*Create Walls*: Select *Wall* and click cells to add or remove obstacles.
 
 4.⁠ ⁠*Generate Maze*: Automatically create a random maze layout.
 
-5.⁠ ⁠*Find Path: Click **Find Path* to see the selected algorithm in action.
+5.⁠ ⁠*Find Path*: Click *Find Path* to see the selected algorithm in action.
 
 6.⁠ ⁠*Clear Path/Board*: Use these buttons to reset the visualization or the entire grid.
 
@@ -90,11 +92,6 @@ Note: If you deploy yourself, ensure the homepage field is removed or set correc
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to check the [issues page](../../issues) or submit a pull request.
----
-## License
-
-This project is licensed under the *MIT License*.  
-See the [LICENSE](LICENSE) file for details.
 ---
 ## Learn More
 

@@ -9,12 +9,12 @@ Check out the live deployed version here:
 
 ## Features
 
-•⁠  ⁠Visualize *BFS*, *DFS*, *Dijkstra*, and *A\* search* algorithms in action.
-•⁠  ⁠Create and remove *walls/obstacles* dynamically on the grid.
-•⁠  ⁠Set *start* and *finish* nodes anywhere on the grid.
-•⁠  ⁠Generate random *mazes* to challenge the pathfinding.
-•⁠  ⁠View the algorithm's progress step-by-step with animations.
-•⁠  ⁠Display algorithm execution times for performance comparison.
+- Visualize **BFS**, **DFS**, **Dijkstra**, and **A\*** search algorithms in action.
+- Create and remove **walls/obstacles** dynamically on the grid.
+- Set **start** and **finish** nodes anywhere on the grid.
+- Generate random **mazes** to challenge the pathfinding.
+- View the algorithm's progress step-by-step with animations.
+- Display algorithm execution times for performance comparison.
 
 ## Getting Started
 

@@ -92,6 +92,7 @@ Note: If you deploy yourself, ensure the homepage field is removed or set correc
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to check the [issues page](../../issues) or submit a pull request.
+
 ---
 ## Learn More
 
